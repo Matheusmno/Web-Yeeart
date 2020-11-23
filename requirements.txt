@@ -1,5 +1,4 @@
 yeelight
-speech_recognition
 ipywidgets
 math
 time
