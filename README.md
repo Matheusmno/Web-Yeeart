@@ -1,2 +1,2 @@
 # Web-Yeeart
- Control your Yeelight's splash of beams into your eyes!
+ Control Yeelight's splash of beams into your eyes!
